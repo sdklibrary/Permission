@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pretty.library.permission">
+
+    <application>
+
+        <activity
+            android:name=".PermissionHelperActivity"
+            android:launchMode="singleTop"
+            android:theme="@style/Permission.Transparent" />
+    </application>
+</manifest>
